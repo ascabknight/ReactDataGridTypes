@@ -1,3 +1,7 @@
+# Please Do Not Use
+
+This is a temporal repository. A PR has been submitted to the official project (https://github.com/DefinitelyTyped/DefinitelyTyped/pull/40279).
+
 # Installation
 > `npm install --save @types/react-data-grid`
 
