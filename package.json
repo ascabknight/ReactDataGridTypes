@@ -1,0 +1,71 @@
+{
+  "_args": [
+    [
+      "@types/react-data-grid@4.0.4",
+      "C:\\Users\\Mauricio\\source\\repos\\Tauruseer\\Platform\\src\\Web\\Docio"
+    ]
+  ],
+  "_development": true,
+  "_from": "@types/react-data-grid@4.0.4",
+  "_id": "@types/react-data-grid@4.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-s5tnTp6FUJVaqDIwY4vDhGHp9S8/lvONyULX6cRnkLH8Dx5aY5Xog3kCezMP9hZ65PMf6sAzYJqRQ9O84pwu2A==",
+  "_location": "/@types/react-data-grid",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@types/react-data-grid@4.0.4",
+    "name": "@types/react-data-grid",
+    "escapedName": "@types%2freact-data-grid",
+    "scope": "@types",
+    "rawSpec": "4.0.4",
+    "saveSpec": null,
+    "fetchSpec": "4.0.4"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/react-data-grid/-/react-data-grid-4.0.4.tgz",
+  "_spec": "4.0.4",
+  "_where": "C:\\Users\\Mauricio\\source\\repos\\Tauruseer\\Platform\\src\\Web\\Docio",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "contributors": [
+    {
+      "name": "Simon Gellis",
+      "url": "https://github.com/SupernaviX"
+    },
+    {
+      "name": "Kieran Peat",
+      "url": "https://github.com/KieranPeat"
+    },
+    {
+      "name": "Martin Novak",
+      "url": "https://github.com/martinnov92"
+    },
+    {
+      "name": "Sebastijan Grabar",
+      "url": "https://github.com/baso53"
+    }
+  ],
+  "dependencies": {
+    "@types/react": "*"
+  },
+  "description": "TypeScript definitions for react-data-grid",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/react-data-grid",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/react-data-grid"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.8",
+  "types": "index",
+  "typesPublisherContentHash": "c90ef682bbf39c34a807e8d22907ab36a10b1e2b0ec5fea8e010da1e50db5e8c",
+  "version": "4.0.4"
+}
